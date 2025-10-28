@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TindaTech - Smart Inventory",
+  "description": "A smart inventory management and point-of-sale application for small convenience (sari-sari) stores, enhanced with Gemini AI for intelligent insights and product recognition from photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
